@@ -1,4 +1,4 @@
-
+''' Plot reference: http://ogrisel.github.io/scikit-learn.org/sklearn-tutorial/auto_examples/cluster/plot_dbscan.html '''
 import pylab as pl
 import numpy as np
 import math
@@ -122,8 +122,6 @@ if __name__ == "__main__":
 	#       % metrics.silhouette_score(X, labels))
 	# print("Silhouette Coefficient: %0.3f"
 	#       % metrics.silhouette_score(X, labels))
-
-	##############################################################################
 	# Plot result
 	import matplotlib.pyplot as plt
 
