@@ -1,0 +1,12 @@
+# Files
+*.csv
+*.pyc
+*.xlsx
+*.png
+*.pdf
+
+.DS_Store
+
+# Directories
+/DBSCAN_Results/*
+/data/*
